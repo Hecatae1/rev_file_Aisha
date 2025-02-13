@@ -1,0 +1,81 @@
+
+
+  
+}
+;)tuptuo(esolcf    
+;)tupni(esolcf    
+;)reffub(eerf    
+pu naelC //    
+
+;)tuptuo ,ezis_elif ,1 ,reffub(etirwf    
+elif tuptuo eht ot tnetnoc desrever eht etirW //    
+
+}    
+;pmet = ]1 - i - ezis_elif[reffub        
+;]1 - i - ezis_elif[reffub = ]i[reffub        
+;]i[reffub = pmet rahc        
+{ )++i ;2 / ezis_elif < i ;0 = i gnol( rof    
+reffub eht esreveR //    
+
+gnirts eht etanimret-lluN // ;'0\' = ]ezis_elif[reffub    
+;)tupni ,ezis_elif ,1 ,reffub(daerf    
+reffub eht otni elif eritne eht daeR //    
+
+}    
+;)1-(tixe        
+;)tuptuo(esolcf        
+;)tupni(esolcf        
+;)"n\deliaf noitacolla yromeM" ,rredts(ftnirpf        
+{ )LLUN == reffub( fi    
+;)1 + ezis_elif(collam)* rahc( = reffub* rahc    
+tnetnoc elif eritne eht dloh ot yromem etacollA //    
+
+;)TES_KEES ,0 ,tupni(keesf    
+;)tupni(lletf = ezis_elif gnol    
+;)DNE_KEES ,0 ,tupni(keesf    
+ezis elif eht enimreted ot dne eht ot retniop elif eht evoM //    
+
+}    
+;)1-(tixe        
+;)"n\elif tuptuo ro tupni gninepo rorrE" ,rredts(ftnirpf        
+{ )LLUN == tuptuo || LLUN == tupni( fi    
+
+;)"w" ,tsed(nepof = tuptuo* ELIF    
+;)"r" ,crs(nepof = tupni* ELIF    
+{ )tsed* rahc tsnoc ,crs* rahc tsnoc(tsed_ot_crs_ypoc diov
+}
+}    
+}        
+;)1-(tixe             
+;)elif ,"n\.elif raluger a t'nsi sihT!RORRE s%" ,rredts(ftnirpf             
+{)))edom_ts.elif(GERSI_S!(( fi        
+{)1- == )elif& ,vgra(tats( fi    
+;elif tats tcurts    
+{)][vgra* rahc tsnoc(raluger_si_elif_crs_kcehc diov
+
+}
+
+}    
+;)1-(tixe        
+;)vgra ,"n\'>tsed crs ver<' yrT n\s% :tnemugra tcerrocnI/etelpmocnI" ,rredts(ftnirpf        
+{)3=! cgra( fi    
+{
+)vgra* rahc ,cgra tni(sgra_mun_kcehc diov
+
+}
+/* rorre on */   ;0 nruter	
+;)]1[vgra ,]0[vgra(tsed_ot_crs_ypoc	
+;)]1[vgra(raluger_si_elif_crs_kcehc	
+;)vgra ,cgra(sgra_mun_kcehc	
+/* .melborp a si ereht fi )1-(tixe llac hcae snoitcnuf esehT */	
+{
+)][vgra* rahc ,cgra tni(niam tni
+
+
+>h.tats/sys< edulcni#
+>h.dtsinu< edulcni#
+>h.bildts< edulcni#
+>h.oidts< edulcni#
+
+/*5202 yraubeF 21
+ihalludbA ahsiA*/
